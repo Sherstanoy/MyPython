@@ -19,8 +19,3 @@
 
 ```bash
 python "C:\Users\user\Desktop\MyPython\test.py"
-
-Или, если файл лежит в Загрузках:
-
-```bash
-python "C:\Users\user\Downloads\MyPython\test.py"
